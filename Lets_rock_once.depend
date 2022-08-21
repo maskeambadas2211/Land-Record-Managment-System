@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589721225 source:e:\sem-6\oopd_minor\end sem project\fianl_start\final_code\doing_now\lets_rock_once\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iomanip>
+
+1589712635 source:e:\sem-6\oopd_minor\end sem project\fianl_start\final_code\doing_now\lets_rock_once\login.cpp
+
